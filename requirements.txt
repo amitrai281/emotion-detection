@@ -1,0 +1,5 @@
+opencv-python
+streamlit
+keras
+tensorflow
+opencv-python-headless
